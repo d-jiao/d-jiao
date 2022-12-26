@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-jiao&label=Profile%20views&color=0e75b6&style=onedark" alt="d-jiao" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-jiao" alt="d-jiao" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-jiao&theme=onedark" alt="d-jiao" /></a> </p>
 
 - 📫 You can reach me at **dj2526@columbia.edu**
 

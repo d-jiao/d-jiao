@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-jiao&show_icons=true&locale=en" alt="d-jiao" /></p><br><br> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=d-jiao&show_icons=true&locale=en&count_private=true&theme=discord_old_blurple" alt="d-jiao" /></p><br><br>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=d-jiao&show_icons=true&locale=en&count_private=true&theme=discord_old_blurple" alt="d-jiao" /></p><br><br>
 <!-- <p>[![d-jiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-jiao&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)</p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-jiao&" alt="d-jiao" /></p> -->

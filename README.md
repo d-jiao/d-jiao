@@ -35,10 +35,10 @@ You can click the Preview link to take a look at your changes.
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/d_jiao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_jiao" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dian-jiao-99b701103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dian-jiao-99b701103" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20864077/djiao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="djiao" height="30" width="40" /></a>
-<a href="https://instagram.com/djiao725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="djiao725" height="30" width="40" /></a>
+<a href="https://twitter.com/d_jiao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_jiao" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/dian-jiao-99b701103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dian-jiao-99b701103" height="25" width="25" /></a>
+<a href="https://stackoverflow.com/users/20864077/djiao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="djiao" height="25" width="25" /></a>
+<a href="https://instagram.com/djiao725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="djiao725" height="25" width="25" /></a>
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-jiao&show_icons=true&locale=en" alt="d-jiao" /></p><br><br> -->
@@ -49,4 +49,4 @@ You can click the Preview link to take a look at your changes.
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-jiao&" alt="d-jiao" /></p> -->
 
 <h4 align="left">Support:</h4>
-<p><a href="https://www.buymeacoffee.com/djiao"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="djiao" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/djiao"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="djiao" /></a></p><br><br>

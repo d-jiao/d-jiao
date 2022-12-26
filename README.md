@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=d-jiao&show_icons=true&locale=en&count_private=true&theme=discord_old_blurple" alt="d-jiao" /></p><br><br> -->
 
 - 👀 I am primarily interested in learning about how the accounting information can shape the market efficiency and the role of disclosure and information intermediaries in the process
+- 💞️ Born and raised in Henan Province, the birthplace of Chinese Civilization with over 3,200 years of recorded history, I enjoy history, Chinese poems, and Chinese calligraphy. Also, I am interested in basketball, table tennis, and road cycling
 - 📫 You can reach me at **dj2526@columbia.edu**
 
 <h3 align="left">Connect with me:</h3>

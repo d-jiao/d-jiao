@@ -21,7 +21,9 @@ You can click the Preview link to take a look at your changes.
 - 💞️ Born and raised in Henan Province, the birthplace of Chinese Civilization with over 3,200 years of recorded history, I enjoy history, Chinese poems, and Chinese calligraphy. Also, I am interested in basketball, table tennis, and road cycling
 - 📫 You can reach me at **dj2526@columbia.edu**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d-jiao&label=Profile%20views&color=0e75b6&style=onedark" alt="d-jiao" /> </p> since Dec 26, 2022.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d-jiao&label=Profile%20views&color=0e75b6&style=onedark" alt="d-jiao" /> </p> 
+
+![](https://komarev.com/ghpvc/?username=d-jiao) since Dec 26, 2022.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-jiao&theme=onedark" alt="d-jiao" /></a> </p>
 

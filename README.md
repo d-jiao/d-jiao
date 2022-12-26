@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-jiao" alt="d-jiao" /></a> </p>
 
-- 📫 How to reach me **dj2526@columbia.edu**
+- 📫 You can reach me at **dj2526@columbia.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

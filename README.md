@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-jiao&theme=onedark" alt="d-jiao" /></a> </p>
 
+<p align="left"> <a href="https://github-profile-trophy.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=d-jiao&show_icons=true&locale=en&count_private=true&theme=discord_old_blurple" alt="d-jiao" /></a> </p>
+
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=d-jiao&show_icons=true&locale=en&count_private=true&theme=discord_old_blurple" alt="d-jiao" /></p><br><br>
 
 - 📫 You can reach me at **dj2526@columbia.edu**

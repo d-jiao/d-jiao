@@ -37,10 +37,10 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/djiao"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="djiao" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-jiao&show_icons=true&locale=en" alt="d-jiao" /></p><br><br>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-jiao&show_icons=true&locale=en" alt="d-jiao" /></p><br><br> -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=d-jiao&show_icons=true&locale=en&count_private=true&theme=discord_old_blurple" alt="d-jiao" /></p>
 <!-- <p>[![d-jiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-jiao&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)</p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-jiao&" alt="d-jiao" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-jiao&" alt="d-jiao" /></p> -->
 

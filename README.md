@@ -13,6 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=d-jiao) since Dec 26, 2022.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=d-jiao)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=d-jiao&theme=onedark
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-jiao&theme=onedark" alt="d-jiao" /></a> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=d-jiao&show_icons=true&locale=en&count_private=true&theme=discord_old_blurple" alt="d-jiao" /></a> </p>

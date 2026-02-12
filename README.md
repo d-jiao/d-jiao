@@ -12,6 +12,7 @@
 
 ![](https://komarev.com/ghpvc/?username=d-jiao) since Dec 26, 2022.
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=d-jiao&theme=onedark)](https://github.com/d-jiao/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=d-jiao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -19,6 +20,8 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=d-jiao&show_icons=true&locale=en&count_private=true&theme=discord_old_blurple" alt="d-jiao" /></a> </p>
 
+ -->
+ 
 <!-- <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=d-jiao&show_icons=true&locale=en&count_private=true&theme=discord_old_blurple" alt="d-jiao" /></p><br><br> -->
 
 <h4 align="left">Languages and Tools:</h4>

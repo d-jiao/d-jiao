@@ -1,19 +1,28 @@
-<h3 align="center">Hi 👋, I'm Dian Jiao</h3>
+<h1 align="center">Hi 👋, I'm Dian Jiao</h1>
 <h4 align="center">PhD candidate in Accounting at Columbia Business School</h4>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=d-jiao&style=for-the-badge&color=blue" alt="Profile Views since Dec 26, 2022" /> 
+</div>
 
-- 👀 I am interested in investigating how accounting information can shape market efficiency and the role of disclosure and information intermediaries in the process
-- 🛠️ In my research, I apply both empirical and analytical methods, as well as recent advances in technology, such as machine learning and textual analysis
+---
+
+<h3 align="left">👨‍💻 About Me</h3>
+- 👀 I am interested in the role of accounting information in capital markets, with a focus on how regulations and institutional frictions shape corporate disclosure and asset pricing
+- 🛠️ In my research, I apply both empirical and analytical methods, as well as recent advances in technology, such as large language models and machine learning
 - 💞️ Born and raised in Henan Province, the birthplace of Chinese Civilization with over 3,200 years of recorded history, I enjoy history, Chinese poems, and Chinese calligraphy
-- 🧗 I am a huge sports fan, particularly interested in climbing, basketball, table tennis, road cycling, swimming, and hiking
-- 📫 You can reach me at [dj2526@columbia.edu](mailto:dj2526@columbia.edu)
+- 🧗 I am a huge sports fan, particularly interested in bouldering, swimming, and trail running
 - 📓 Feel free to read more about me [here](https://d-jiao.github.io/)
 
+---
 
+<h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=d-jiao&theme=nord&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Dian's Trophies" />
   </a>
 </p>
+
+<h3 align="left">🏆 Trophies</h3>
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=username=d-jiao">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-jiao&&show_icons=true&locale=en" alt="Dian's Performance" />
@@ -21,20 +30,30 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=d-jiao) since Dec 26, 2022.
+---
+<h3 align="left">📬 Connect with me:</h3>
+<p align="center">
+  <a href="mailto:dj2526@columbia.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5461158"><img src="https://img.shields.io/badge/ssrn-Dian%20Jiao-blue" alt="SSRN" /></a>
+  <a href="https://www.linkedin.com/in/dj2526/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/d_jiao"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:d_jiao"></a>
+  <a href="https://instagram.com/djiao725" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="IG" /></a>
+</p>
 
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="25" height="25"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="25" height="25"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="25" height="25"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="25" height="25"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="25" height="25"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="25" height="25"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> </a> </p>
 
 
-<h4 align="left">Connect with me:</h4>
+<!-- <h4 align="left">Languages and Tools:</h4>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="25" height="25"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="25" height="25"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="25" height="25"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="25" height="25"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="25" height="25"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="25" height="25"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> </a> </p> -->
+
+
+<!-- <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/d_jiao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_jiao" height="25" width="25" /></a>
 <a href="https://linkedin.com/in/dian-jiao-99b701103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dian-jiao-99b701103" height="25" width="25" /></a>
 <a href="https://stackoverflow.com/users/20864077/djiao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="djiao" height="25" width="25" /></a>
 <a href="https://instagram.com/djiao725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="djiao725" height="25" width="25" /></a>
-</p>
+</p> -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-jiao&show_icons=true&locale=en" alt="d-jiao" /></p><br><br> -->
 
@@ -43,5 +62,5 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-jiao&" alt="d-jiao" /></p> -->
 
-<h4 align="left">Support:</h4>
-<p><a href="https://www.buymeacoffee.com/djiao"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="djiao" /></a></p><br><br>
+<!-- <h4 align="left">Support:</h4>
+<p><a href="https://www.buymeacoffee.com/djiao"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="djiao" /></a></p><br><br> -->

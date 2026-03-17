@@ -6,12 +6,12 @@
 
 ---
 
-<h3 align="left">👨‍💻 About Me</h3>
-- 👀 I am interested in the role of accounting information in capital markets, with a focus on how regulations and institutional frictions shape corporate disclosure and asset pricing
-- 🛠️ In my research, I apply both empirical and analytical methods, as well as recent advances in technology, such as large language models and machine learning
-- 💞️ Born and raised in Henan Province, the birthplace of Chinese Civilization with over 3,200 years of recorded history, I enjoy history, Chinese poems, and Chinese calligraphy
-- 🧗 I am a huge sports fan, particularly interested in bouldering, swimming, and trail running
-- 📓 Feel free to read more about me [here](https://d-jiao.github.io/)
+### 👨‍💻 About Me
+- 👀 I am interested in the role of accounting information in capital markets, with a focus on how regulations and institutional frictions shape corporate disclosure and asset pricing  
+- 🛠️ In my research, I apply both empirical and analytical methods, as well as recent advances in technology, such as large language models and machine learning 
+- 💞️ Born and raised in Henan Province, the birthplace of Chinese Civilization with over 3,200 years of recorded history, I enjoy history, Chinese poems, and Chinese calligraphy 
+- 🧗 I am a huge sports fan, particularly interested in bouldering, swimming, and trail running  
+- 📓 Feel free to read more about me [here](https://d-jiao.github.io/)  
 
 ---
 

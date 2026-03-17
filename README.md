@@ -11,6 +11,18 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-jiao&label=Profile%20views&color=0e75b6&style=onedark" alt="d-jiao" /> </p>  -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=d-jiao)](https://github-profile-trophy-orcin-eta.vercel.app/?username=d-jiao&theme=nord)
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=d-jiao&theme=nord&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Dian's Trophies" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=username=d-jiao">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-jiao&&show_icons=true&locale=en" alt="Dian's Performance" />
+  </a>
+</p>
+
+
 ![](https://komarev.com/ghpvc/?username=d-jiao) since Dec 26, 2022.
 
 <!--

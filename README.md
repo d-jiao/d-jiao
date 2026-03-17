@@ -15,14 +15,14 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">🏆 Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=d-jiao&theme=nord&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Dian's Trophies" />
   </a>
 </p>
 
-<h3 align="left">🏆 Trophies</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=username=d-jiao">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-jiao&&show_icons=true&locale=en" alt="Dian's Performance" />

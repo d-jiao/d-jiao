@@ -9,8 +9,7 @@
 - 📓 Feel free to read more about me [here](https://d-jiao.github.io/)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-jiao&label=Profile%20views&color=0e75b6&style=onedark" alt="d-jiao" /> </p>  -->
-
-https://github-profile-trophy.vercel.app/?username=d-jiao
+[https://github-profile-trophy.vercel.app/?username=d-jiao](https://github-profile-trophy-orcin-eta.vercel.app/?username=d-jiao&theme=nord)
 
 ![](https://komarev.com/ghpvc/?username=d-jiao) since Dec 26, 2022.
 

@@ -18,7 +18,7 @@
 <h3 align="left">🏆 Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=d-jiao&theme=nord&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Dian's Trophies" />
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=d-jiao&theme=nord&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Dian's Trophies" />
   </a>
 </p>
 
